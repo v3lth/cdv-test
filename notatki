@@ -1,0 +1,17 @@
+Gihub - zbiór repozytoriów z kodem
+
+Repozytorium - wspólny katalog z kodem, który zapisuje całą historię zmian
+
+Commit - fragment kodu, jedna sensowna zmiana w kodzie
+
+Gihub - zbiór repozytoriów z kodem
+
+Repozytorium - wspólny katalog z kodem, który zapisuje całą historię zmian
+
+Commit - fragment kodu, jedna sensowna zmiana w kodzie
+
+Pull request - prośba o włączenie swoich zmian
+
+Branch - "odgałęzienie" kodu, inna wersja kodu, przydatne gdy nad jednym projektem pracuje kilka osób
+
+Merge - scalanie gałęzi z powrotem do głównego brancha (najczęściej mastera)
